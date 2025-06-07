@@ -67,7 +67,7 @@
     .dish{
         width: calc(50% - 12px);
     }
-}
+
 
 @media screen and (max-width: 600px){
     .dish{
